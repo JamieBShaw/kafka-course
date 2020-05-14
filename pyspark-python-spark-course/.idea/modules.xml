@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyspark-python-spark-course.iml" filepath="$PROJECT_DIR$/.idea/pyspark-python-spark-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparl-dataframes/spark-dataframes.iml" filepath="$PROJECT_DIR$/sparl-dataframes/spark-dataframes.iml" />
+    </modules>
+  </component>
+</project>
